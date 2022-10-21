@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bela Gaytan (@belagaytan):  a learning experience designer and web developer who is passionate about empowering learners to succeed.  I advocate and volunteer for marginalized groups and support others doing the same.  Let’s do some good together!
+- 👋 Hi, I’m Bela Gaytan (@belagaytan):  instructional designer and hobbyist web developer!
       
 - 🌱 I’m currently learning Articulate Storyline and Rise
 
