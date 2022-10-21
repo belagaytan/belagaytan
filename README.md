@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Bela Gaytan (@belagaytan):  instructional designer and hobbyist web developer!
+- 👋 Hi, I’m Bela Gaytan (@belagaytan)!  I’m a Technical Instructional Designer at Pantheon, Community and Social Media Manager for The eLearning Designer’s Academy, hobbysit WordPress and front-end web developer, DEIA advocate, and coach.
+
+I’m authentic, transparent, vulnerable, and disrupting spaces to create change.  Learn more about me or contact me to discuss your next project.  Let’s do some good together!
       
 - 🌱 I’m currently learning Articulate Storyline and Rise
 
